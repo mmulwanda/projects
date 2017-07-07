@@ -1,4 +1,4 @@
-print('''You outside the metro on your way to Girls Who Code SIP, when you get a text
+print('''You are outside the metro on your way to Girls Who Code SIP, when you get a text
 from a friend to hangout with them and others on U Street.''')
 
 print("Type 'GWC' to go GWC or 'U Street' to go U Street.")
